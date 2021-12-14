@@ -1,3 +1,10 @@
 Hello from your teacher
+<<<<<<< HEAD
 Hallo from me
+=======
+
+Hello from Maximilian Egger alias MaxEgger06
+
+Hello from Jakob Hofer - alias J4k0bH
+>>>>>>> 6432da1e53e88a943947f0b5bb2b95465514e70c
 
