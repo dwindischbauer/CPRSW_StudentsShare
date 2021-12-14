@@ -1,2 +1,6 @@
 Hello from your teacher
+<<<<<<< HEAD
 Hello from Leonie Adelwöhrer - alias Lele
+=======
+Hello from Jakob Hofer - alias J4k0bH
+>>>>>>> 871f5e49928d5b3fe1a31809913f4bf1e11c2506
