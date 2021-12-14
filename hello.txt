@@ -1,3 +1,6 @@
+Hello from your teacher and Harry Syles
+bonjour 
+
 Hello from your teacher
 <<<<<<< HEAD
 Hallo from me
