@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 Hello from your teacher
 
 Aluna wrote smth
-=======
+
 Hello from your teacher and Harry Syles
 bonjour 
 
@@ -13,4 +12,4 @@ Hello from Maximilian Egger alias MaxEgger06
 
 Hello from Jakob Hofer - alias J4k0bH
 
->>>>>>> d401114d0a6ef7bebb3b6ee25773658580d3fbf3
+Hello from elias
