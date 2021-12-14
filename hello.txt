@@ -1,6 +1,25 @@
+<<<<<<< HEAD
 Hello from your teacher
 <<<<<<< HEAD
-Hello from Leonie Adelwöhrer - alias Lele
+<<<<<<< HEAD
 =======
 Hello from Jakob Hofer - alias J4k0bH
 >>>>>>> 871f5e49928d5b3fe1a31809913f4bf1e11c2506
+=======
+
+Aluna wrote smth
+=======
+Hello from your teacher and Harry Syles
+bonjour 
+
+Hello from Leonie Adelwöhrer - alias Lele
+
+Hello from your teacher
+Hallo from me
+
+Hello from Maximilian Egger alias MaxEgger06
+
+Hello from Jakob Hofer - alias J4k0bH
+
+>>>>>>> d401114d0a6ef7bebb3b6ee25773658580d3fbf3
+>>>>>>> 6135c93fa7daf5b59b34b42643f5628ebcf2f7b0
