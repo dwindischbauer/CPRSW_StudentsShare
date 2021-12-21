@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Happy Chrihmuh /\  *
 	    * /* \   *
          * * /  * \*     ~
           * /______\ *  ~_~
               |__|     C|_|<--Kakao
 From Seppi Stieg - alias sStieg <3
+=======
+Hello from your teacher
+
+Hi from michü:)
+>>>>>>> 965adf62ab7cee0276cd6e6facbaf8e58232f527
