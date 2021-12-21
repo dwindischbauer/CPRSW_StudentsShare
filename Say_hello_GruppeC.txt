@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 39ea8fb9b28a83f5f23d0812fcae6818d81db2e9
 Hello from Sophie Stöger - iT's A hOt HeAd HoLiDaY,,, rEsPectFuLly
 
 Happy Chrihmuh /\  *
@@ -6,9 +10,23 @@ Happy Chrihmuh /\  *
           * /______\ *  ~_~
               |__|     C|_|<--Kakao
 From Seppi Stieg - alias sStieg <3
+<<<<<<< HEAD
 
 Hello from your teacher
 
 Hello from Isabel Schnalzenberger - alias Yuu.
 
 Hi from michü:)
+=======
+
+Hello from your teacher
+HEllo
+Hi from michü:)
+Hi from michü:)
+
+Hello from Maxi
+Hello from Isabel Schnalzenberger - alias Yuu.
+
+Hi from michü:)
+Maxi said hello
+>>>>>>> 39ea8fb9b28a83f5f23d0812fcae6818d81db2e9
