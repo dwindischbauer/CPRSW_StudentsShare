@@ -1,8 +1,15 @@
+
+
+Hello I am under the water LukMayr -- Lukas
+
 Hello from Daniel Mahringer
 Hello from your teacher
-if (works == true) {
-	System.out.println("morgennnn - laurin p");
-}
+<<<<<<< HEAD
+
+=======
+
+morgennnnn - laurin p
+>>>>>>> 4c9224bf613278c7e96c85b9a549dbc500a9a907
 
  __    __   _______  __       __        ______       _______ .______        ______   .___  ___.    .___  ___.      ___      .__   __.  __    __   _______  __      
 |  |  |  | |   ____||  |     |  |      /  __  \     |   ____||   _  \      /  __  \  |   \/   |    |   \/   |     /   \     |  \ |  | |  |  |  | |   ____||  |     
