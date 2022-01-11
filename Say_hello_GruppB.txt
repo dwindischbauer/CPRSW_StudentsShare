@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 BEGIN:VCARD
 VERSION:3.0
 N:;Ꮥ᷏Ꮻ᷏ᮕ᷏ᮄ� �↭₸₳₭∄ℜ↭� ��∄₳ㆭ;;;
@@ -67,3 +68,37 @@ item26.URL:Δ.ᇸ.؋.ᄻ.ྜྷ.ᇸ.� ��.ﻜ.ᇶ.ྒྷ.ﻷ.ᆆ. ྜྷ.ᅒ.ྔ.ᇶ
 item26.X-ABLabel:OTHER
 PHOTO;BASE64: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
 END:VCARD
+=======
+
+Greetings by Matse
+
+
+
+Hello from your teacher
+
+
+Hallo von Friedrich
+
+
+Hello I am under the water LukMayr -- Lukas
+
+Hello from Daniel Mahringer
+
+
+
+
+
+
+
+morgennnnn - laurin p
+
+
+ __    __   _______  __       __        ______       _______ .______        ______   .___  ___.    .___  ___.      ___      .__   __.  __    __   _______  __      
+|  |  |  | |   ____||  |     |  |      /  __  \     |   ____||   _  \      /  __  \  |   \/   |    |   \/   |     /   \     |  \ |  | |  |  |  | |   ____||  |     
+|  |__|  | |  |__   |  |     |  |     |  |  |  |    |  |__   |  |_)  |    |  |  |  | |  \  /  |    |  \  /  |    /  ^  \    |   \|  | |  |  |  | |  |__   |  |     
+|   __   | |   __|  |  |     |  |     |  |  |  |    |   __|  |      /     |  |  |  | |  |\/|  |    |  |\/|  |   /  /_\  \   |  . `  | |  |  |  | |   __|  |  |     
+|  |  |  | |  |____ |  `----.|  `----.|  `--'  |    |  |     |  |\  \----.|  `--'  | |  |  |  |    |  |  |  |  /  _____  \  |  |\   | |  `--'  | |  |____ |  `----.
+|__|  |__| |_______||_______||_______| \______/     |__|     | _| `._____| \______/  |__|  |__|    |__|  |__| /__/     \__\ |__| \__|  \______/  |_______||_______|
+
+
+>>>>>>> 0c065cf91a5526f56ddcc342db63a73a22671d22
