@@ -1,0 +1,151 @@
+CLS            Clears the screen.
+
+CHDIR [/D] [drive:][path]
+CHDIR [..]
+CD [/D] [drive:][path]
+CD [..]
+
+C:\>
+
+Directory of C:\
+
+26/07/2020  22:11    <DIR>          Apps
+09/10/2020  19:31    <DIR>          Dell
+28/08/2021  10:48    <DIR>          Drivers
+02/05/2021  20:12    <DIR>          Intel
+07/12/2019  10:14    <DIR>          PerfLogs
+28/10/2021  13:09    <DIR>          Program Files
+27/10/2021  19:37    <DIR>          Program Files (x86)
+24/09/2021  10:46    <DIR>          Users
+14/11/2021  09:31    <DIR>          Windows
+               0 File(s)              0 bytes
+               9 Dir(s)  119.261.782.016 bytes free
+
+C:\Program Files\Adobe>cd/
+
+C:\>
+
+es erscheinen die zuerst eingegebenen befehle
+
+mkdir firstRepo
+
+cd firstRepo
+
+Initialized empty Git repository in C:/Users/danie/Documents/htl/CPRSW/firstRepo/CPRSW_StudentsShare/firstRepo/.git/
+
+dir /adh
+ Volume in drive C is OS
+ Volume Serial Number is 3477-2CCB
+
+16/11/2021  09:22    <DIR>          .git
+               0 File(s)              0 bytes
+               1 Dir(s)  119.260.962.816 bytes free
+
+No commits yet
+
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        firstFile.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   firstFile.txt
+
+[master (root-commit) edb0673] first file added
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 firstFile.txt
+
+On branch master
+nothing to commit, working tree clean
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   firstFile.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   firstFile.txt
+
+[master f47a4c1] first file with text added
+ 1 file changed, 1 insertion(+)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        delfile.txt
+        delfile2.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+rm 'delfile.txt'
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   delfile2.txt
+
+[master 9a57f7d] delfile2.txt
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 delfile2.txt
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        deleted:    delfile2.txt
+
+1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 delfile2.txt
+
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        donottrack.txt
+        donottrack2.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   donottrack2.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        donottrack.txt
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 donottrack2.txt
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        deleted:    donottrack2.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        donottrack.txt
+        donottrack2.txt
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 donottrack2.txt
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 donottrack.txt
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        renamed:    donottrack.txt -> dotrack.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        donottrack2.txt
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename donottrack.txt => dotrack.txt (100%)
+
