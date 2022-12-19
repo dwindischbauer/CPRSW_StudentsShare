@@ -1,6 +1,19 @@
 I want to greet you! Your teacher!
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+Hallo (Gossenreiter)
+=======
+hehe -cleo
+>>>>>>> 18ccbe99acca4d4ca3db0105ab41dce95dbae439
+=======
 
 Hallo : Tobias
 Guten Tag = Abdulkerim aka kerim
 hehe -cleo
+<<<<<<< HEAD
+
+>>>>>>> 7a5435f37e9a99c06bee2b496cf8247c76321687
+=======
 Hallo -pia
+>>>>>>> d6dc28b483fdb2146be2341770679205e3f13795
