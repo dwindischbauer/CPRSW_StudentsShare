@@ -1,2 +1,10 @@
 I want to greet you! Your teacher!
+<<<<<<< HEAD
 Say hello G1- Isabella
+=======
+
+
+Guten Tag = Abdulkerim aka kerim
+hehe -cleo
+
+>>>>>>> 7a5435f37e9a99c06bee2b496cf8247c76321687
