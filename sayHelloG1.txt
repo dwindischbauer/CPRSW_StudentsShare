@@ -1,3 +1,7 @@
 I want to greet you! Your teacher!
+<<<<<<< HEAD
 
 Hallo (Gossenreiter)
+=======
+hehe -cleo
+>>>>>>> 18ccbe99acca4d4ca3db0105ab41dce95dbae439
