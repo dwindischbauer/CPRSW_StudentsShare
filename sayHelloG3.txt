@@ -1,6 +1,1 @@
-Hello from your teacher
-<<<<<<< HEAD
-=======
-Hello from Philip
->>>>>>> 28e161a4b13b88920d142b39b9c83d969e25615d
 Raphael said Servus!
