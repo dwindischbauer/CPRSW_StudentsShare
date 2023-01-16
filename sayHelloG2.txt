@@ -1,6 +1,18 @@
 I want to greet you! Your teacher
+<<<<<<< HEAD
 4.Hello Gabriel Pabst :(
 4.Hi Lien
 4.julian
 1.Hi, Chri
+=======
+<<<<<<< HEAD
+Hello Gabriel Pabst
+Hi Lien
+julian 
+=======
+2.Hello Gabriel Pabst :(
+1.Hi Lien
+3.julian
+>>>>>>> 4a205ec58babda3889dbe14f519af5d58529f598
 
+>>>>>>> 7df8c2569c0ac5df65663e2e83df48171960cb5f
