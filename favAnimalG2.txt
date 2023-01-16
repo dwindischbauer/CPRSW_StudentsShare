@@ -1,6 +1,7 @@
 Teachers favourite animal: cat
-<<<<<<< HEAD
 
 Regő: Red panda
-=======
 Gabriel: Gaming Cat
+Lien:dog
+
+
