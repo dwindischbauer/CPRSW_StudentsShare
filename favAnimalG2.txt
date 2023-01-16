@@ -9,7 +9,8 @@ Gabriel: Gaming Cat
 
 Regő: Red panda
 Gabriel: Gaming Cat
-Lien:dog
+Lien: Dog
+Christoph: Cat
 
 
 >>>>>>> 6cd9b8cb0e9c62636e0fb738d4c5d9bbc044fa5d
