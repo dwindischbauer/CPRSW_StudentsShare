@@ -1,1 +1,2 @@
 Teachers favourite animal: cat
+julians favourite animal: dog
