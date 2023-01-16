@@ -1,5 +1,6 @@
 I want to greet you! Your teacher
-2.Hello Gabriel Pabst :(
-1.Hi Lien
-3.julian
+4.Hello Gabriel Pabst :(
+4.Hi Lien
+4.julian
+1.Hi, Chri
 
