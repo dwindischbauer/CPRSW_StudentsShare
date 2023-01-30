@@ -3,3 +3,4 @@ Timon Rosenbichler : cat
 Philip Pfarrhofer: dog
 Stefanie - Lion
 Lilith - Kotz
+Markus: Panda
