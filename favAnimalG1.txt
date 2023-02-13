@@ -1,3 +1,7 @@
 Teacher - Katze
+<<<<<<< HEAD
 
 Kerim - katze
+=======
+Cleo- Hund
+>>>>>>> d205eee2ee51fdf50ae03cdb157bb4b6d2f39db5
