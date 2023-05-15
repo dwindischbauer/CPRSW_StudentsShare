@@ -1,7 +1,19 @@
 Teacher - Katze
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Kerim - katze
 =======
 Cleo- Hund
 >>>>>>> d205eee2ee51fdf50ae03cdb157bb4b6d2f39db5
+=======
+
+Thomas - Katze
+Cleo- Hund
+Tobias - Hund
+Gabriel - Hendl (cock) 
+Christoph - "Mei Kota"
+Philip - Meersau
+Stefanie - Lion
+Lilith - Kotz
+>>>>>>> 7c3af96183b613044f7cb1622919b172919d1bdc
